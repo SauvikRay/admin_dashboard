@@ -1,0 +1,230 @@
+{
+  "project_info": {
+    "project_number": "1033395930271",
+    "project_id": "wedeli",
+    "storage_bucket": "wedeli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033395930271:android:0e5e156bda54e5469f0eaa",
+        "android_client_info": {
+          "package_name": "com.example.apple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7FDK5GkIIdzX-VchQQ_fz1dchNJTSAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033395930271-5j68ia84g89aaaosr80suoino6ej3kcg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.setuptech.wedeli"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033395930271:android:b1b9b0c1c4c2549f9f0eaa",
+        "android_client_info": {
+          "package_name": "com.setuptech.wedeli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7FDK5GkIIdzX-VchQQ_fz1dchNJTSAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033395930271-5j68ia84g89aaaosr80suoino6ej3kcg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.setuptech.wedeli"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033395930271:android:7c82782b9879974f9f0eaa",
+        "android_client_info": {
+          "package_name": "com.setuptech.wedeli.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033395930271-fr5obtdl6t064egim3tvbq12r3sjck4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.setuptech.wedeli.shop",
+            "certificate_hash": "f02e35a656d2b8e9aed30b21b59d27da8b17ce39"
+          }
+        },
+        {
+          "client_id": "1033395930271-ph9cjpt4o51j7ot3i6il23s01hf12572.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.setuptech.wedeli.shop",
+            "certificate_hash": "3ce06555661a6f164fa976e35065834439552f56"
+          }
+        },
+        {
+          "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7FDK5GkIIdzX-VchQQ_fz1dchNJTSAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033395930271-5j68ia84g89aaaosr80suoino6ej3kcg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.setuptech.wedeli"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033395930271:android:5bfcd9286d8951469f0eaa",
+        "android_client_info": {
+          "package_name": "com.wedeli.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033395930271-23gu0g4l6g1c1765ib6u9od6buu2nmp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wedeli.deliveryboy",
+            "certificate_hash": "5c2fd64cb45a7c9b1227527568f745877371ed82"
+          }
+        },
+        {
+          "client_id": "1033395930271-clr1fu62dln1moe2g74hca20n5kegrmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wedeli.deliveryboy",
+            "certificate_hash": "2cc1f35b1bc75f394a1d806bcb01c768bbf34c23"
+          }
+        },
+        {
+          "client_id": "1033395930271-qd1aiivh5vcg4r7ha1556l1cs9fm7mhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wedeli.deliveryboy",
+            "certificate_hash": "196607bea56700228507dbbeb5c9e20dba82b048"
+          }
+        },
+        {
+          "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7FDK5GkIIdzX-VchQQ_fz1dchNJTSAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033395930271-5j68ia84g89aaaosr80suoino6ej3kcg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.setuptech.wedeli"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033395930271:android:9401eca6e95369ba9f0eaa",
+        "android_client_info": {
+          "package_name": "com.wedeli.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7FDK5GkIIdzX-VchQQ_fz1dchNJTSAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033395930271-jhb5cl02lapoummj2f4ubldvusj61abh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033395930271-5j68ia84g89aaaosr80suoino6ej3kcg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.setuptech.wedeli"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

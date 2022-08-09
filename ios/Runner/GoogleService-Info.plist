@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1033395930271-7cqh7fn8ppvguu8s32gmb5nph3tscqlb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1033395930271-7cqh7fn8ppvguu8s32gmb5nph3tscqlb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1033395930271-0up7vh5nvtbcobulkvhbcrt2f7rq3og1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_5yFQG9OcqctBqaA22FJnau6xCAOSFVg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1033395930271</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wedeli.restaurant</string>
+	<key>PROJECT_ID</key>
+	<string>wedeli</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wedeli.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1033395930271:ios:d00e48f68b94d69e9f0eaa</string>
+</dict>
+</plist>
